@@ -1,6 +1,8 @@
 # IPL-2024-Tickets-Notifier
 Indian Premier League 2024: Tickets Notifier
 
+![21_08_2020-ipl_logo_20650553](https://github.com/akshattrivedi/IPL-2024-Tickets-Notifier/assets/14280517/96f0f3be-74a1-48ed-a659-16f67f4a8721)
+
 ## Pre-Requisites
 * Check your chrome version and download the required [Chrome Driver](https://chromedriver.chromium.org/downloads)
 
